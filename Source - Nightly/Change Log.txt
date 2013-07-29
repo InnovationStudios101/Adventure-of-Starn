@@ -1,0 +1,198 @@
+Change Log
+
+
+
+-----------------------------------------------------------------------------
+Adventure of Starn
+Version: 0.0.9 Alpha
+
+Gameplay
+	New Enemies
+		Added New Bosses
+			Bone Dragon mini boss
+			Void king
+	Boss Tweaks
+		Alura has been fixed(I hope)	
+
+	Map updates
+		Some Glitches have been fixed
+		Minor tweaks
+		Added new events on The Void
+	New Skills/Spells
+		Spell Dragons Rage of Fire
+		Skill Grow ATK PWR 
+		Skill Grow MAT PWR
+
+Game Engine
+	Engine
+		Optimization tweaks to the game engine
+		Better Compression
+		Mouse input Temporarly Disabled due to bugs
+	
+	Visual
+		New Visuals
+			New Actors for Monsters
+			New Effects for battles
+			
+----------------------------------------------------------------------------
+Adventure of Starn
+Version: 0.0.7r2 Alpha
+
+Gameplay
+	New Enemies
+		Added New Monsters
+			Oni
+			Oni Lord
+			Wasp
+			Bear
+	Map Updates
+		Added Tower level 2 (still unfinished)
+		Fixed major bug in Dev World
+		Added Secert Path to Dev World Island
+	
+	Balancing
+		Changed Values to Paralyze Breath
+		minor adjustments to Chimera (Balancing Adjustments)
+
+Game Engine
+	Engine
+		Fixed a minor glitch for mouse input
+		updated menu system
+		updated Debug console commands (still doesn't display right)
+		updated Visual Effect Engine
+	
+	Visual
+		New Visuals
+			Added new Tilesets
+			Added new Faces
+			Added new Actors
+			Added new Special Effects
+			
+
+-----------------------------------------------------------------------------
+Adventure of Starn
+Version: 0.0.7r1 Alpha
+
+Gameplay
+	Balance Attempt
+		Orc: increased atk,def,hp
+		Skeleton: increased ,def,hp
+		Ghost: increased ,def,hp
+		Man Eating Plant: increased atk,def,hp
+		Jellyfish: increased atk,def,hp
+		Scorpion: increased atk,hp
+		Large Snake: increased def,hp
+		Wisp: increased atk,def,hp
+		Rate: increased hp lowered atk
+		Spider: increased hp, def
+		Hornet: increased atk,def,hp
+		Bat: increased atk,def,hp
+		Slime: increased atk,def,hp
+		Chimera: increased atk,mat,mdf,agi, lowered luk,def
+		Minic: increased atk,def,mat,mdf,hp lowered agi,luk
+
+	New Enemies
+		Added New Monsters
+			Green Slime 
+			Ifrit (killing him = surprise :) )
+			Hell Hounds
+	Other changes
+		23 monsters rewards changed: Lowered EXP and GOLD given after victory
+		New item Drops
+		Changed Drop Rates: Much harder to get higher end items from drops
+
+
+Spells/Items/Specials/Classes/Weapons/Armor
+		New Spell: Hell's Inferno
+
+Game Engine/Map
+		Added a Dev testing map for bosses and events and more
+		North East Lands added scenery 
+		Dock town nearing finish
+
+-----------------------------------------------------------------------------
+
+
+
+Adventure of Starn
+Version: 0.0.7 Aplha
+
+Quest line Related
+	updated some text 
+	added a few more things to the quest line
+
+Gameplay
+	Added interactive system to be used for later versions
+	Added more islands/continental land mass
+	tweaked some visuals.
+
+Game Engine
+	bug fixes
+		fixed a bug that potentially could crash the game
+		fixed a minor GFX glitch
+	
+	Added a new lighting system
+	Added mouse interface (little buggy but works)
+	Added new features for "end game title"
+	fixed some errors in the engine
+	optimized the initial engine
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+Adventure of Starn							     
+Version: 0.0.6 Alpha							     
+									     
+Quests Line Related							     
+	updated minor fixes							
+
+Bosses
+	Alura and Alura Goddess tweaked
+
+Gameplay
+	Item shop fixed
+	New item and secert spell added!
+	
+Game Engine
+	
+	Minor bug in engine fixed.
+
+
+
+
+-------------------------------------------------------------------------
+
+
+
+
+Adventure of Starn
+Version: 0.0.5 Alpha
+
+Quest line related
+	updated and Fixed minor bugs
+	Added new quest for the Pub
+	Quest for identity updated
+
+Bosses
+	Alura minor tweaks.
+
+Game Engine
+	Minor tweaks to the engine
+	Higher resolution supported
+	Better full screen resolution
+
+Game Play
+	Minor tweaks to the monsters
+	Minor tweaks to the shop system
+	Testing new system
+
+Notes:
+	Due to some changes in the games engine and game play
+	your saves may be broken. I apologize for the inconvenience
+
+-----------------------------------------------------------------------
