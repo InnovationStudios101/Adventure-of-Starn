@@ -1,6 +1,39 @@
 Change Log
 
 
+
+-----------------------------------------------------------------------------
+Adventure of Starn
+Version: 0.0.9 Alpha
+
+Gameplay
+	New Enemies
+		Added New Bosses
+			Bone Dragon mini boss
+			Void king
+	Boss Tweaks
+		Alura has been fixed(I hope)	
+
+	Map updates
+		Some Glitches have been fixed
+		Minor tweaks
+		Added new events on The Void
+	New Skills/Spells
+		Spell Dragons Rage of Fire
+		Skill Grow ATK PWR 
+		Skill Grow MAT PWR
+
+Game Engine
+	Engine
+		Optimization tweaks to the game engine
+		Better Compression
+		Mouse input Temporarly Disabled due to bugs
+	
+	Visual
+		New Visuals
+			New Actors for Monsters
+			New Effects for battles
+			
 ----------------------------------------------------------------------------
 Adventure of Starn
 Version: 0.0.7r2 Alpha
