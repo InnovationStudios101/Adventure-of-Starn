@@ -1,0 +1,25 @@
+-----------------------------------------------------------------------
+--------------------[Minimum System Requirments]-----------------------
+-----------------------------------------------------------------------
+	OS Microsoft® 
+		Windows® XP/Vista/7 (32/64-bit OS support) 
+	CPU                       
+		Intel® Pentium® 4 2.0 GHz or equivalent processor 
+	Memory          
+		512 MB 
+	Video          
+		1,024 × 768 resolution 
+	Hard disk      
+		400+ MB free 
+-------------------------------------------------------------------------------------------[Recommended System Requirements]------------------
+-----------------------------------------------------------------------
+	OS Microsoft® 
+		Windows® XP/Vista/7 (32/64-bit OS support) 
+	CPU                       
+		Intel® or AMD® Dualcore 2.0 GHz or equivalent processor 
+	Memory          
+		1536 MB 
+	Video          
+		1,024 × 768 resolution 
+	Hard disk      
+		400+ MB free 
